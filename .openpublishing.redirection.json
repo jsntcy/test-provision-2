@@ -4,6 +4,11 @@
     "source_path": "test-provision-2/index.md",
     "redirect_url": "https://docs.microsoft.com",
     "redirect_document_id": true
+    },
+        {
+    "source_path": "test-provision-2/index-new.md",
+    "redirect_url": "https://docs.microsoft.com",
+    "redirect_document_id": true
     }
 ]
 }
